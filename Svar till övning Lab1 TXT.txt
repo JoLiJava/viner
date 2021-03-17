@@ -1,0 +1,27 @@
+
+Vad är en applikationsserver och varför behövs den?
+En applikationsserver är en server som är en host för en applikation.
+Den används för att kunna dela med sig av appar till omvärlden, till kunden.
+
+Vilka filer bör finnas i .gitignore?
+Binära filer (med ettor och nollor), filer från operativsystemet, filer och mappar som är
+specifika för IDE:n och privat/känslig information. 
+
+Om det finns filer som används i en specifik IDE och inte är inkluderat i .gitignore, 
+så är det bäst att använda sig av samma IDE för att undvika att andra filer och mappstruktuerer 
+som inte behövs i din IDE kommer med.
+
+Vilka parametrar skulle du titta på för att bedöma vilken IDE som skall användas i ett projekt?
+IDE:n som väljs för projektet ska kunna köra det språk som man vill använda.
+Andra parametrar kan vara kostnad, användarvänlighet, hastighet, stabilitet, 
+frekvens av nya uppdateringar, urval av tilläggsprogram/plug-ins.
+
+
+
+
+I gruppen ingår:
+
+Johan Lindblom
+Jonas Fredriksson
+Milad Nazari
+Edvin Persson
